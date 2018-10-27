@@ -1,0 +1,7 @@
+D:\Codility\Lesson 2. Arrays\CyclicRotation\CyclicRotation\bin\Debug\CyclicRotation.exe.config
+D:\Codility\Lesson 2. Arrays\CyclicRotation\CyclicRotation\bin\Debug\CyclicRotation.exe
+D:\Codility\Lesson 2. Arrays\CyclicRotation\CyclicRotation\bin\Debug\CyclicRotation.pdb
+D:\Codility\Lesson 2. Arrays\CyclicRotation\CyclicRotation\obj\Debug\CyclicRotation.csprojAssemblyReference.cache
+D:\Codility\Lesson 2. Arrays\CyclicRotation\CyclicRotation\obj\Debug\CyclicRotation.csproj.CoreCompileInputs.cache
+D:\Codility\Lesson 2. Arrays\CyclicRotation\CyclicRotation\obj\Debug\CyclicRotation.exe
+D:\Codility\Lesson 2. Arrays\CyclicRotation\CyclicRotation\obj\Debug\CyclicRotation.pdb
